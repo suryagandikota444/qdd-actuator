@@ -65,7 +65,7 @@ To achieve my target torque, I integrated a compact, two-stage planetary gearbox
 * **Cost:** The mini bearing used for the gear and carrier cost **$2.70**.
 
 ![Cross-section view showing internal gearing](cross_section_view.png)
-![View showing internal gearing](gear.png)
+![View showing internal gearing](gearbox.png)
 
 ### Bearings
 
