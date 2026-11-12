@@ -1,4 +1,4 @@
-# Tobor Actuator Design & Rationale
+# QDD Actuator Design & Rationale
 
 This repository contains the design files for a custom-built, low-cost brushless actuator. My primary goal was to develop an actuator with a final assembled cost of around **$40** and a total weight of under **500g**. Every design decision, from component sourcing to mechanical design, was made to balance performance with this strict cost constraint.
 
